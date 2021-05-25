@@ -1,22 +1,27 @@
 ## Welcome to My Pages
 
-**Project Description**
+### Project Description
 
 I-LMS means Intelligent Learning Management System. This Project is an attempt to invent Aritificial Intelligence techniques to personalize learning by doing education. The main feature is to trace student learning activity in the scaffold identifies student learning difficulties. Learning diagnosis models to recommend fully automated or human powered support to the student.
 
 ### Technologies
 Micro-Services API using Python/Node.js
+
 React Web and mobile framework
+
 HTML & CSS
+
 JavaScript 
 
 **Sprint-1**
-1.Desinged Prototype Using Just-in-mind Application. 
+
+Desinged Prototype Using Just-in-mind Application. 
 
 **Sprint-2**
-AS a Student, I should see a recommendation on the prerequisite learning objectives that I should complete, so that I can do them prior to starting todays modules
 
-As a student, I should click on the learning objective that I want to work on to,so that I can either work on the learing material or take the assessment.
+1.AS a Student, I should see a recommendation on the prerequisite learning objectives that I should complete, so that I can do them prior to starting todays modules
+
+2.As a student, I should click on the learning objective that I want to work on to,so that I can either work on the learing material or take the assessment.
 
 
 1. Numbered
