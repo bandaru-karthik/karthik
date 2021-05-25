@@ -13,15 +13,17 @@ HTML & CSS
 
 JavaScript 
 
-**Sprint-1**
+#### Sprint-1**
 
 Desinged Prototype Using Just-in-mind Application. 
 
-**Sprint-2**
+#### Sprint-2**
 
 1.AS a Student, I should see a recommendation on the prerequisite learning objectives that I should complete, so that I can do them prior to starting todays modules
 
 2.As a student, I should click on the learning objective that I want to work on to,so that I can either work on the learing material or take the assessment.
+
+#### Sprint-3
 
 
 1. Numbered
