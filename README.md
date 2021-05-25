@@ -5,15 +5,6 @@ Project Description
 I-LMS means Intelligent Learning Management System. This Project is an attempt to invent Aritificial Intelligence techniques to personalize learning by doing education. The main feature is to trace student learning activity in the scaffold identifies student learning difficulties. Learning diagnosis models to recommend fully automated or human powered support to the student.
 
 ### Technologies
-
-.Micro-Services API using Python/Node.js
-.React Web and mobile framework
-.HTML & CSS
-.JavaScript 
-
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
 ```markdown
 Syntax highlighted code block
 
@@ -22,7 +13,12 @@ Syntax highlighted code block
 ### Header 3
 
 - Bulleted
+.Micro-Services API using Python/Node.js
+.React Web and mobile framework
+.HTML & CSS
+.JavaScript 
 - List
+
 
 1. Numbered
 2. List
