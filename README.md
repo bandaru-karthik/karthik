@@ -35,7 +35,8 @@ Duration: 10-05-2021 to 15-05-2021
 Sprint Plan: Work on the user story "As a student, I should see a list of learning objectives that I'm supposed to complete for today, so that I can begin to work on them."
 
 Work Done: As a team we worked on the given user story to display a box where a student can view the learning objectives of the current day. We were able to fetch the learning objectives data stored in a JSON file and display them as a list.But, failed to implement navigation to next page using a button.
-![118996858-d806d180-b9a5-11eb-8c08-142c5f8f75dd](https://user-images.githubusercontent.com/71970908/120361962-26ae5700-c328-11eb-9b5a-cd1b1bd4e968.png)
+![Tm](https://user-images.githubusercontent.com/71970908/120362698-fadfa100-c328-11eb-937f-8d029d7b4298.png)
+
 
 
 #### Sprint-3
@@ -45,6 +46,9 @@ Duration: 17-05-2021 to 22-05-2021
 Sprint Plan: Complete the engineering work by pushing the entire code into the repository and work on the user story "As a student, I can click on the start learning button to see the learning material, so that I can start learning."
 
 Work Done: We initially worked on updating the github repository with the code written by our team from the previous sprints and then started working on the user story where we have created a video gallery with pagination.
+
+![lr](https://user-images.githubusercontent.com/71970908/120362766-0fbc3480-c329-11eb-827e-8deda19b468c.png)
+
 
 #### Sprint-4
 
