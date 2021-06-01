@@ -24,6 +24,9 @@ Duration: 03-05-2021 to 08-05-2021
 Sprint Plan: Have a Design Sprint to create a prototype of the website.
 
 Work Done: We had a brainstorming session and discussed our ideas as a team and worked on sketching of those ideas using Google Slides and later we used Justinmind app to build the prototype.
+![120312302-2bf2ae00-c2f6-11eb-8028-91454742bd64](https://user-images.githubusercontent.com/71970908/120361928-18f8d180-c328-11eb-9f21-e0f609efbdc3.png)
+
+
 
 #### Sprint-2
 
@@ -32,6 +35,8 @@ Duration: 10-05-2021 to 15-05-2021
 Sprint Plan: Work on the user story "As a student, I should see a list of learning objectives that I'm supposed to complete for today, so that I can begin to work on them."
 
 Work Done: As a team we worked on the given user story to display a box where a student can view the learning objectives of the current day. We were able to fetch the learning objectives data stored in a JSON file and display them as a list.But, failed to implement navigation to next page using a button.
+![118996858-d806d180-b9a5-11eb-8c08-142c5f8f75dd](https://user-images.githubusercontent.com/71970908/120361962-26ae5700-c328-11eb-9b5a-cd1b1bd4e968.png)
+
 
 #### Sprint-3
 
