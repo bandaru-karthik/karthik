@@ -17,7 +17,7 @@ JavaScript
 
 ReactJS
 
-#### Sprint-1
+### Sprint-1
 
 Duration: 03-05-2021 to 08-05-2021
 
@@ -28,7 +28,7 @@ Work Done: We had a brainstorming session and discussed our ideas as a team and 
 
 
 
-#### Sprint-2
+### Sprint-2
 
 Duration: 10-05-2021 to 15-05-2021
 
@@ -39,7 +39,7 @@ Work Done: As a team we worked on the given user story to display a box where a 
 
 
 
-#### Sprint-3
+### Sprint-3
 
 Duration: 17-05-2021 to 22-05-2021
 
@@ -50,22 +50,47 @@ Work Done: We initially worked on updating the github repository with the code w
 ![lr](https://user-images.githubusercontent.com/71970908/120362766-0fbc3480-c329-11eb-827e-8deda19b468c.png)
 
 
-#### Sprint-4
+### Sprint-4
 
 Duration: 24-05-2021 to 29-05-2021
 
 Sprint Plan: Work on the project button navagination from one page to another page.
 
-Work Done: 
+Work Done: Failed to implement navigation to next page using a button
+
+### Sprint-5
+
+Duration: 31-05-2021 to 5-06-2021
+
+Sprint Plan:Yet to be updated
+
+Work Done:Yet to be updated
+
+### Sprint-6
+
+Duration: 07-06-2021 to 12-06-2021
+
+Sprint Plan:Yet to be updated
+
+Work Done:Yet to be updated
+
+### Sprint-7
+
+Duration: 14-06-2021 to 19-06-2021
+
+Sprint Plan:Yet to be updated
+
+Work Done:Yet to be updated
+
+### Sprint-8
+
+Duration:21-06-2021 to 26-06-2021
+
+Sprint Plan:Yet to be updated
+
+Work Done:Yet to be updated
 
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
