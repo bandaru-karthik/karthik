@@ -11,25 +11,43 @@ React Web and mobile framework
 
 HTML & CSS
 
+Bootstrap
+
 JavaScript 
+
+ReactJS
 
 #### Sprint-1
 
-Desinged Prototype Using Just-in-mind Application. 
+Duration: 03-05-2021 to 08-05-2021
+
+Sprint Plan: Have a Design Sprint to create a prototype of the website.
+
+Work Done: We had a brainstorming session and discussed our ideas as a team and worked on sketching of those ideas using Google Slides and later we used Justinmind app to build the prototype.
 
 #### Sprint-2
 
-1.AS a Student, I should see a recommendation on the prerequisite learning objectives that I should complete, so that I can do them prior to starting todays modules
+Duration: 10-05-2021 to 15-05-2021
 
-2.As a student, I should click on the learning objective that I want to work on to,so that I can either work on the learing material or take the assessment.
+Sprint Plan: Work on the user story "As a student, I should see a list of learning objectives that I'm supposed to complete for today, so that I can begin to work on them."
+
+Work Done: As a team we worked on the given user story to display a box where a student can view the learning objectives of the current day. We were able to fetch the learning objectives data stored in a JSON file and display them as a list.But, failed to implement navigation to next page using a button.
 
 #### Sprint-3
 
-AS a Student, I should see a recommendation on the prerequisite learning objectives that I should complete, so that I can do them prior to starting todays modules
+Duration: 17-05-2021 to 22-05-2021
+
+Sprint Plan: Complete the engineering work by pushing the entire code into the repository and work on the user story "As a student, I can click on the start learning button to see the learning material, so that I can start learning."
+
+Work Done: We initially worked on updating the github repository with the code written by our team from the previous sprints and then started working on the user story where we have created a video gallery with pagination.
 
 #### Sprint-4
 
-Work on the project button navagination from one page to another page.
+Duration: 24-05-2021 to 29-05-2021
+
+Sprint Plan: Work on the project button navagination from one page to another page.
+
+Work Done: 
 
 
 1. Numbered
