@@ -70,7 +70,7 @@ Work Done: Intially gone through the resources on backend and created GCP accoun
 
 Duration: 07-06-2021 to 12-06-2021
 
-Sprint Plan:To implement the menu bar, In this user need to get all modules names and their learning objectives.
+Sprint Plan:To implement the Next buttons for the daywise modules, In this user need to get all modules names and their learning objectives.
 
 Work Done:We started with the implementation the Next button to list all the modules for the course, continued our work to display list of recommendations to the user in the form of next buttons for daywise modules.
 ![120310426-04024b00-c2f4-11eb-8805-c9e4677c9158](https://user-images.githubusercontent.com/71970908/121833849-e3ba8f00-ccea-11eb-8186-d98c032d6d69.png)
