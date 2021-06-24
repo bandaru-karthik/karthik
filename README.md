@@ -80,26 +80,21 @@ Work Done:We started with the implementation the Next button to list all the mod
 
 Duration: 14-06-2021 to 19-06-2021
 
-Sprint Plan:Yet to be updated
+Sprint Plan: To modifications of the page like changing the CSS of the buttons and displaying competency level in a structured format. We started implementing microservice to our project.
 
-Work Done:Yet to be updated
+
+Work Done: we completed the web page and we need to bulid the microservice and we need to implement testing .
+
 
 ### Sprint-8
 
 Duration:21-06-2021 to 26-06-2021
 
-Sprint Plan:Yet to be updated
+Sprint Plan:we need to complete the project 
 
-Work Done:Yet to be updated
+Work Done: we completed the project and we need to present to the panel. 
 
 
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/bandaru-karthik/karthik/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
